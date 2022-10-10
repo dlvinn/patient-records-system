@@ -1,6 +1,5 @@
 # patient-records-system
 
-# patients-records-system
 ## A system to store in and view patient's records. ##
 
 ## Overview ##

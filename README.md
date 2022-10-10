@@ -8,10 +8,10 @@ A system for patient records that the hospital, doctors, and receptionists can u
 ### Who is it for? ###
 This system is primarily for hospitals. 
 
-### What is required? ###
-For Hardware
+### What is required to use the system? ###
+- For Hardware
   * PC
-For Software
+- For Software
   - Windows 10 or newer versions.
 
 ### Team ###
